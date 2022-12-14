@@ -30,9 +30,9 @@ Machine Learning Modeling Pipelines in Production
 -------------------------------------------------
 ![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TYZ8TXQWDZG8/CERTIFICATE_LANDING_PAGE~TYZ8TXQWDZG8.jpeg)
 
-Machine Learning Modeling Pipelines in Production
+Machine Learning Data Lifecycle In Production
 -------------------------------------------------
-![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TYZ8TXQWDZG8/CERTIFICATE_LANDING_PAGE~TYZ8TXQWDZG8.jpeg)
+![Certificate](https://coursera-certificate-images.s3.amazonaws.com/XA3DJ5C53XXS)
 
 ### Assignments
 
