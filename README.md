@@ -22,9 +22,17 @@ Above course can help in gaining below-mentioned skills
 ### Specialisation Certificate
 
 Introduction to Machine Learning in Production
----------------------
+-----------------------------------------------
 
-![Certificate](https://coursera-certificate-images.s3.amazonaws.com/6K7K3ABZZHAF)
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6K7K3ABZZHAF/CERTIFICATE_LANDING_PAGE~6K7K3ABZZHAF.jpeg)
+
+Machine Learning Modeling Pipelines in Production
+-------------------------------------------------
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TYZ8TXQWDZG8/CERTIFICATE_LANDING_PAGE~TYZ8TXQWDZG8.jpeg)
+
+Machine Learning Modeling Pipelines in Production
+-------------------------------------------------
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TYZ8TXQWDZG8/CERTIFICATE_LANDING_PAGE~TYZ8TXQWDZG8.jpeg)
 
 ### Assignments
 
